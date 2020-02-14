@@ -5,6 +5,6 @@
         <title>Test Git</title>
     </head>
     <body>
-        <p>Hello</p>
+        <p>Hello 2</p>
     </body>
 </html>
